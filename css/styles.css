@@ -82,9 +82,10 @@ a:hover {
   margin-right: 30px;
 }
 
-.chillies {
+.pizza {
   width: 25%;
   float: right;
+  border-radius: 100%;
 }
 
 .skill-row {
